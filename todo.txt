@@ -1,0 +1,7 @@
+=== to try ===
+
+> CNN where each activation or set of activations is normalized somehow, and then thresholded (with a threshold that is learned)
+
+> try densely connected NN which has very sparse input (sparsifying cnn pre-filter?)
+
+> theoretical effect of periodic activation
